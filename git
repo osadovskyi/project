@@ -1,0 +1,29 @@
+[33mcommit 15cc2072144687467b13d624e20c6ccdca8e70ed[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mnew_feature[m[33m)[m
+Author: oleksa <sadovskiyoleksiy@gmail.com>
+Date:   Mon Aug 8 18:59:25 2022 +0300
+
+    added new branch
+
+[33mcommit 2b1def3317b5733999b7992c6e27724859c6bfad[m[33m ([m[1;32mmy_project[m[33m)[m
+Author: oleksa <sadovskiyoleksiy@gmail.com>
+Date:   Mon Aug 8 18:50:03 2022 +0300
+
+    new_project
+
+[33mcommit 7ce26856aeb56a671e5e23409b128beb0a177a26[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: oleksa <sadovskiyoleksiy@gmail.com>
+Date:   Mon Aug 8 17:38:19 2022 +0300
+
+    3_commit
+
+[33mcommit d6c79bf7f2fc40f8bc8087a6655caf9d66f68597[m
+Author: oleksa <sadovskiyoleksiy@gmail.com>
+Date:   Mon Aug 8 17:36:31 2022 +0300
+
+    2_commit
+
+[33mcommit 4591a9d17b91ecf7ac092601a67f66c16c747eff[m
+Author: oleksa <sadovskiyoleksiy@gmail.com>
+Date:   Mon Aug 8 17:35:19 2022 +0300
+
+    1_commit
